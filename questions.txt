@@ -1,0 +1,5 @@
+Crear un segundo nombre para una variable metodo (Definicion)
+alias (Respuesta)
+
+Usado para definir una funcion (Definicion)
+def (Respuesta)
